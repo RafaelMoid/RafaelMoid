@@ -1,10 +1,6 @@
 ### Hi there, I'm Rafael - aka [MoidSan] 👋
-
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/Moidsan2?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Moidsan2)
-
 ## I'm a mobile dev, musician, cyclist, and geek!!
-
+<h2>About me</h2>
 - 🔭 I'm working hard so one day i can travel the world
 - 🌱 I’m currently learning everything 
 - 👨‍💻 I’m looking for my first international opportunity
