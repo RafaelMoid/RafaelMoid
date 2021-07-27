@@ -33,8 +33,3 @@
 [youtube]: https://youtube.com/UCHqMAlgf6iK5kuKt7THx54w
 [instagram]: https://instagram.com/rafaelmoid
 [linkedin]: https://linkedin.com/in/rafaelvarelati
-
-
-[![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Moidsan2)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/rafaelmoid)
-
