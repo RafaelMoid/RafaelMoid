@@ -24,7 +24,8 @@
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelMoid&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/RafaelMoid/github-readme-stats)
 
-https://mydiscord.tolfix.com/?userId=783156306101534730
+
+https://mydiscord.tolfix.com/png?userId=783156306101534730&banner=true&stroke_circle=banner
 ---
 
 
