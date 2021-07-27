@@ -29,27 +29,7 @@
 [instagram]: https://instagram.com/rafaelmoid
 [linkedin]: https://linkedin.com/in/rafaelvarelati
 
-# Hi there 👋
-
-Welcome to my page. <br>
-I'm Satoshi, Web developer from Japan 🇯🇵
-
-
-<details open>
-
-<summary>🌎 <b>Find me elsewhere</b></summary>
-
-<br>
 
 [![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Moidsan2)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/rafaelmoid)
 
-</details>
-
-
-<hr>
-
-
-<details open>
-É assim que cria abinhas?  
-</detais>
