@@ -1,4 +1,8 @@
-### @@ Hi there, I'm Rafael - aka [MoidSan]@@ 👋
+h1{
+color:purple
+}
+
+###<style > Hi there, I'm Rafael - aka [MoidSan] 👋
 ## I'm a mobile dev, musician, cyclist, and geek!!
 <h2>About me</h2>
 <ul>
@@ -9,7 +13,7 @@
 <li>⚡ Fun fact: I love to play games and play guitar/sing</li>
   </ul>
 
-### Connect with me:
+### Connect with me: </style>
 [![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Moidsan2)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/rafaelmoid)
 [<img align="left" alt="moidsan2 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
