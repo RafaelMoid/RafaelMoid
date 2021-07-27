@@ -51,12 +51,5 @@ I'm Satoshi, Web developer from Japan 🇯🇵
 
 
 <details open>
-
-<summary>👨‍💻 <b>Stats</b></summary>
-
-<br>
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=otsukasatoshi&count_private=true&show_icons=true)](https://github.com/RafaelMoid)
-[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otsukasatoshi&layout=compact)](https://github.com/RafaelMoid)
-
-</details>
+É assim que cria abinhas?  
+</detais>
