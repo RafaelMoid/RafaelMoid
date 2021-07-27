@@ -1,4 +1,4 @@
-### Hi there, I'm Rafael - aka [MoidSan] 👋
+@@### Hi there, I'm Rafael - aka [MoidSan] 👋
 ## I'm a mobile dev, musician, cyclist, and geek!!
 <h2>About me</h2>
 <ul>
@@ -7,7 +7,7 @@
 <li>- 👨‍💻 I’m looking for my first international opportunity</li>
 <li>- ⭕ 2021 Goals: To work in a multinational tech company</li>
 <li>- ⚡ Fun fact: I love to play games and play guitar/sing</li>
-  </ul>
+  </ul>@@
 
 ### Connect with me:
 [![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Moidsan2)
