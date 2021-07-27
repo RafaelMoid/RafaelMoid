@@ -1,6 +1,5 @@
 
-<span style="color:red">
-### Hi there, I'm Rafael - aka [MoidSan] 👋
+<span style="color:red">### Hi there, I'm Rafael - aka [MoidSan] 👋
 ## I'm a mobile dev, musician, cyclist, and geek!!
 <h2>About me</h2>
 <ul>
