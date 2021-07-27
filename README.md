@@ -18,6 +18,7 @@
 
 <br />
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelMoid)](https://github.com/RafaelMoid/github-readme-stats)
 
 
 ---
