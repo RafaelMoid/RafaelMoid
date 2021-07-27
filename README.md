@@ -19,9 +19,7 @@ I'm a mobile dev, musician, cyclist, and geek!!
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelMoid&show_icons=true&theme=tokyonight)](https://github.com/RafaelMoid/github-readme-stats)
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelMoid&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/RafaelMoid/github-readme-stats)
-<br />
 
----
 
 
 
