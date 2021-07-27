@@ -1,6 +1,6 @@
 
 ### Hi there, I'm Rafael - aka [MoidSan] 👋
-## I'm a mobile dev, musician, cyclist, and geek!!
+#<span style="color:blue">I'm a mobile dev, musician, cyclist, and geek!!</span>
 <h2>About me</h2>
 <ul>
 <li>🔭 I'm working hard so one day i can travel the world</li>
