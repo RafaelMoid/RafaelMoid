@@ -18,7 +18,7 @@
 
 <br />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelMoid)](https://github.com/RafaelMoid/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelMoid&show_icons=true)](https://github.com/RafaelMoid/github-readme-stats)
 
 
 ---
