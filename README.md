@@ -5,7 +5,7 @@ I'm a mobile dev, musician, cyclist, and geek!!
 <ul>
 <li>🔭 I'm working hard so one day i can travel the world</li>
 <li>🌱 I’m currently learning everything</li>
-<li>👨‍💻 I’m looking for my first international opportunity</li>
+<li>👨‍💻 I’m looking for a opportunity at a great company</li>
 <li>⭕ 2021 Goals: To work for a multinational tech company</li>
 <li>⚡ Fun fact: I love to play games and play guitar/sing</li>
   </ul>
