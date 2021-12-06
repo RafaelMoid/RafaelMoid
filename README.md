@@ -3,7 +3,7 @@
 <br/>
 
 ### Olá, Eu sou Rafael - aka [MoidSan] 👋
-Sou um desenvolvedor frontend/mobile, musico, ciclista e geek!
+Sou um desenvolvedor frontend/mobile, agronomo em formação, musico, ciclista e geek!
 <h2>Sobre mim</h2>
 <ul>
 <li>:computer: Bolsista desenvolvedor Frontend ReactJS na TDS Company </li>
@@ -35,7 +35,7 @@ Sou um desenvolvedor frontend/mobile, musico, ciclista e geek!
 
 
 ### Hi there, I'm Rafael - aka [MoidSan] 👋
-I'm a mobile dev, musician, cyclist, and geek!!
+I'm a frontend/mobile dev,agronomist in training, musician, cyclist, and geek!!
 <h2>About me</h2>
 <ul>
 <li>:computer: Front-end developer ReactJS Fellow at TDS Company</li>
