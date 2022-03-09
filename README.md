@@ -20,8 +20,10 @@ Sou um desenvolvedor frontend/mobile, agronomo em formação, musico, ciclista e
 [![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Moidsan2)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/rafaelmoid)
 
-<div>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelMoid&show_icons=true&theme=tokyonight)](https://github.com/RafaelMoid/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelMoid&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/RafaelMoid/github-readme-stats)</div>
+<div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelMoid&show_icons=true&theme=tokyonight)](https://github.com/RafaelMoid/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelMoid&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/RafaelMoid/github-readme-stats)
+</div>
 
 
 [twitter]: https://twitter.com/Moidsan2
