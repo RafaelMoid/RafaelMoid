@@ -2,12 +2,11 @@
 <br/>
 
 ### Olá, Eu sou Rafael - aka [MoidSan] 👋
-Sou um desenvolvedor frontend/mobile, agronomo em formação, musico, ciclista e geek!
+Sou um desenvolvedor frontend, analista de sistemas em formação, musico, ciclista e geek!
 <h2>Sobre mim</h2>
 <ul>
-<li>:computer: Estagiário desenvolvedor Frontend ReactJS na TDS Company </li>
-<li>🌱 Aprimorando o desenvolvimento frontend em React e designs reponsivos</li>
-<li>⭕ Metas para 2022: Ser efetivado como desenvolvedor</li>
+<li>:computer: Desenvolvedor Frontend pleno com WordPress e ReactJS na Agência Jazzz </li>
+<li>🌱 Aprimorando o desenvolvimento frontend com Wordpress como CMS e React e designs reponsivos</li>
 <li>⚡ Curiosidade: Amo jogos digitais e canto/guiterra</li>
   </ul>
 
@@ -32,12 +31,11 @@ Sou um desenvolvedor frontend/mobile, agronomo em formação, musico, ciclista e
 
 
 ### Hi there, I'm Rafael - aka [MoidSan] 👋
-I'm a frontend/mobile dev,agronomist in training, musician, cyclist, and geek!!
+I'm a frontend developer, systems analyst in training, musician, cyclist and geek!
 <h2>About me</h2>
 <ul>
-<li>:computer: Trainee front-end developer ReactJS at TDS Company</li>
+<li>:computer: Frontend developer with WordPress and ReactJS at Agência Jazzz</li>
 <li>🌱 Front-end development improvement in reactive and responsive designs</li>
-<li>⭕ Goals for 2022: Be hired as a Junior Developer</li>
 <li>⚡ Fun fact: I love to play games and play guitar/sing</li>
   </ul>
 
