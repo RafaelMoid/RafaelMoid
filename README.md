@@ -1,23 +1,20 @@
-### Hi there, I'm Rafael - aka [MoidSan] 👋
-I'm a developer, musician, cyclist and geek!
-<h2>About me</h2>
-<ul>
-<li>🌱 Front-end development improvement in reactive and responsive designs</li>
-<li>⚡ Fun fact: I love to play games and play guitar/sing</li>
-  </ul>
+# 👋 Hi there! Welcome to my GitHub profile!  
 
-<br    />
+I'm **Rafael Varela**, a passionate **Frontend Developer** based in Recife, Pernambuco, Brazil. With over **4 years of experience** in web development, I specialize in:  
+- 🌐 **ReactJS**, **WordPress**, and **Adobe Experience Manager (AEM)**  
+- 🎨 Crafting responsive and dynamic user interfaces  
+- 🚀 Delivering exceptional user experiences through clean, efficient code  
 
+## 🌱 Always Learning  
+I'm constantly expanding my skills and exploring new technologies, from CSS animations to backend integrations. I love tackling challenges that push me to grow as a developer.  
 
+## 🎯 Beyond Code  
+- 🌾 I have a unique background and a strong interest in **agriculture** and **machine learning**.  
+- 🎮 I'm also a big fan of **Magic: The Gathering**, the card game, and I’m eager to collaborate on projects related to it, whether they involve software, tools, or creative content for the MTG community.  
+- 🌱 My dream is to merge my technical skills with my passions, such as creating solutions for **plant disease detection** and **crop automation**.  
 
+## 📫 Let's Connect!  
+Feel free to reach out for collaboration, projects, or just to chat about tech, Magic: The Gathering, and innovation!  
 
-### Connect with me:
-[![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Moidsan2)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/rafaelmoid)
-
-
-
-[twitter]: https://twitter.com/Moidsan2
-[youtube]: https://youtube.com/UCHqMAlgf6iK5kuKt7THx54w
-[instagram]: https://instagram.com/rafaelmoid
-[linkedin]: https://linkedin.com/in/rafaelvarelati
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rafaelvarelati/)  
+[![Portfolio](https://img.shields.io/badge/Website-Visit-lightgrey?style=flat&logo=github)](https://agenciaupflow.com.br/)  
